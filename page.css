@@ -1,0 +1,14 @@
+.footer{
+    width: 100%;
+    background-color: rgb(209, 205, 205);
+}
+.heading{
+    padding: 10px;
+}
+.contact{
+    padding-bottom: 10px;
+}
+.contact i{
+    color: rgb(156, 154, 154);
+    padding: 0 10px;
+}
